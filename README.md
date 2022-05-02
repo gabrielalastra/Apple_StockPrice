@@ -1,4 +1,4 @@
-<img align='right' width=50% src='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjL_e_rMINiXTTkkKVDoO8ECgFbS_WKTP6Rw&usqp=CAU'/>
+<img align='right' width=50% src='https://i.pinimg.com/originals/0a/b7/98/0ab798457513fbbeb9c1e2bc83247a38.jpg'/>
 <h1 align='center'>Clean Path</h1>
 <h2 align='center'>Stock Prices Analysis</h2>
 <p>Clean Path is an Germany electric vehicle and clean energy company. An important shareholder is tired of receiving only monthly updates of the stock price.</p>
