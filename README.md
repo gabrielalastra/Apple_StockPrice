@@ -7,3 +7,10 @@
   <li>The average monthly stock price</li>
   <li>Daily closing figures</li>
   <li>Volume of stock traded.</li></p>
+<p>To create the Apple Database, I used the GoogleSheets with the code:</p>
+<code>=GOOGLEFINANCE("AAPL";"all"; "1/1/2020"; "1/12/2022"; "daily")</code>
+</br></br>
+<p>This Sheet will be updated until December 2022</p>
+
+</br></br>
+<a href='https://public.tableau.com/app/profile/gabriela.lastra/viz/applestockprices/AppleDashboard'><img align='right' width=80% src='https://github.com/gabrielalastra/Apple_StockPrice/blob/main/Apple%20Dashboard.png?raw=true'/></a>
